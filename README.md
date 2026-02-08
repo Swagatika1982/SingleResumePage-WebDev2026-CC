@@ -1,5 +1,4 @@
-# WebDev2026-ChaiCode
-Assignments-SingleResumePage
+ Assignments-SingleResumePage
 # Single-Page Resume Website (HTML Only)
 
 A clean, single-page **resume website built using only HTML** (no CSS required for this assignment).  
